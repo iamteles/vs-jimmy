@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				-46
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BRYCE Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-94
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BRYCE down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BRYCE north",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-162
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BRYCE right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BRYCE IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bryce_assets",
+	"position": [
+		50,
+		-170
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
